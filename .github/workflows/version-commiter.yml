@@ -22,3 +22,4 @@ jobs:
         with:
           version-command: |
             cat versions.txt
+          create-tag: true
